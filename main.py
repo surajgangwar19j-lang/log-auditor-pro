@@ -1,3 +1,4 @@
+# Project: Server Log Auditor for VITyarthi AI/ML Course
 import sys
 import re
 
