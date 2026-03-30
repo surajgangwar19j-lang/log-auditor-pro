@@ -1,0 +1,4 @@
+[10:00] User Jenny connected from 192.168.1.5
+[10:05] ERROR: Network Protocol Mismatch on 192.168.1.5
+[10:10] User Shinra logged in from 10.0.0.1
+[10:15] FAILED login attempt from 192.168.1.10
